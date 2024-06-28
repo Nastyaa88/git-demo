@@ -1,1 +1,1 @@
-# git-demo
+# BSTU_practice
